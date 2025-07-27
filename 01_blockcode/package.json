@@ -41,6 +41,8 @@
 	},
 	"packageManager": "pnpm@10.6.0",
 	"dependencies": {
-		"clsx": "^2.1.1"
+		"@atlaskit/pragmatic-drag-and-drop": "^1.7.4",
+		"clsx": "^2.1.1",
+		"nanoid": "^5.1.5"
 	}
 }
